@@ -1,6 +1,15 @@
 {
-  "version": "",
-  "notes": "",
-  "pub_date": "",
-  "platforms": {}
+  "version": "0.1.0-dev.3",
+  "notes": "Dev build 3",
+  "pub_date": "2026-11-18T22:43:46Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTThVbUFPSmQyQTZ3SlBVLzBueWNpVWJKSUxlZnRlQWlLeDRtOS9UYmZsaVBYVXJoeUFPck5JaVNXL3RXOHZRN1U1ZjdDSiszNHVNRkhzbTk0Z1lmUUtBeUNMdkRoZkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQxNDE4CWZpbGU6VExFIEFwcCBEZXYuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wLWRldi4zClBROHFsRHc2RldqS3FqQit3a0YwdXRQdU9IUTlqT2VaKzluNlNPQThWamkxYXR3UmM2eHo3a1gzN09Oc00wdDZDSzErcUdGMVgyVEY0NjU3cEJlV0FBPT0K",
+      "url": "https://github.com/simoPh83/TLE-App-Desktop/releases/download/dev/TLE App Dev.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTThVbUFPSmQyQThzUVJhQjlZVnF2WmpsWURNZHI1SHBTRkF5Qk9xUDZlK3RvOVhMTzFtTm9pWC9pdExXajJ0TmxZeUptSUZPMDV5aXlENkEzS1lsK0VvNUhzSTdBL2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQxNzYzCWZpbGU6VExFIEFwcCBEZXZfMC4xLjAtZGV2LjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wLWRldi4zCnptdlp6Z2hzOERMZmFoS29XUndLWVk1YlVSVjEyMEQvVHBOK0JhOTZJeTBRQXNOakF1UmVZZXAyenR0d1plVWlxVm5IUFVoZmJjczBFSnd2N1dTc0FRPT0K",
+      "url": "https://github.com/simoPh83/TLE-App-Desktop/releases/download/dev/TLE App Dev_0.1.0-dev.3_x64-setup.exe"
+    }
+  }
 }
