@@ -1,15 +1,15 @@
 {
-  "version": "0.1.0-dev.12",
-  "notes": "Dev build 12",
-  "pub_date": "2026-11-26T18:10:22Z",
+  "version": "0.1.0-dev.13",
+  "notes": "Dev build 13",
+  "pub_date": "2026-11-27T14:03:09Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTThVbUFPSmQyQXg5NHQvdHZ5clhwakg5TklwZUV3Zm9NaEZ2cGJKRkJmbzUybmIzaE9nREdxVndneFFHYWVCRDJPNGIzUVdlSDdBVFJSbHB1bW05eXN2SWpZZ0wxblE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzE2NDM2CWZpbGU6VExFIEFwcCBEZXYuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wLWRldi4xMgpDN0JxV0p4OEdEaitXYTRGVWE3V0g0ZU1DZjhSNUJxZmIvcjc2KzZIZW45THlIaXJ3SWhoaXNlK0pkQWs4OVZNbnkxTVdqZnA5ZXFHaWNVV3crdGRDQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTThVbUFPSmQyQTBHMTJ0Q3pQckEwOHEyQlZ3MjRoUnc5UnhrT0hiREJPenNTenViVXhSV3NqaDRGNmpmK1I4dW5XSllvaVR5Qitjb3J1elo4S3BmRkswRjBsY2VEQ0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzg3OTMwCWZpbGU6VExFIEFwcCBEZXYuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wLWRldi4xMwo5bDJQaThEaUQ0UzV4QVY4cnJhdWlPYVpIcHZmcHl6dnZrV3hXYTFnQURJMlV3VnZUNWxuaWRvUkFYL1pjd2p2R2xubWNyUFl4Tm4zT3JSYTVicmdCZz09Cg==",
       "url": "https://github.com/simoPh83/TLE-App-Desktop/releases/download/dev/TLE.App.Dev.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTThVbUFPSmQyQTlmMG54aTRBT0daeXRISm92YVlRU21OcGhMam9PbjlPYWhZQ3JmTzdBYnFEOWw4RWQwank5WmFwUDloR2RXczlkcWF2bHp1cy9GY2VwRzRpL09mYWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzE2NjAwCWZpbGU6VExFIEFwcCBEZXZfMC4xLjAtZGV2LjEyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMC1kZXYuMTIKTUp5UG85TTQ2bUxFWUJhL1NYQnRKdVhGQko4aUlFeU92OXRQYmRPeWxObVlwdFFOWktEMm5oSmtnRTZtVHFHMUJRUTg4RFByNC9JenE5NXVnalhyQkE9PQo=",
-      "url": "https://github.com/simoPh83/TLE-App-Desktop/releases/download/dev/TLE.App.Dev_0.1.0-dev.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTThVbUFPSmQyQThwUXZWVERpT0hrSFVDOUZtKzF5c3pzaDdHajdmNHAzZnFvUjcwQ0x1dktCUVdPemlTUjdkVEtVM05WYlhqbGRKUDhySjRleDh3NVdkNmg3dUpHdkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzg4MTU0CWZpbGU6VExFIEFwcCBEZXZfMC4xLjAtZGV2LjEzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMC1kZXYuMTMKNXd1d1IzV29sS2xrWTlBd25STW5WeEtvTlZmNHBUbjZOTmRFcU5ONnlFR3RvS2JQQ2JyZTAyV0Nua0tEY05FcmcweVNnck9qYjNQN09ZL0kyNEExQWc9PQo=",
+      "url": "https://github.com/simoPh83/TLE-App-Desktop/releases/download/dev/TLE.App.Dev_0.1.0-dev.13_x64-setup.exe"
     }
   }
 }
